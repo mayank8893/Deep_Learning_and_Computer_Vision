@@ -4,6 +4,7 @@ In this project, I will try to classify a dog picture into one of the following 
 
 I will then work on improving the model by adding more layers and by **data augmentation**. The best model performs at about **50% accuracy**. **This is beacuse it mainly mis-classifies the labrator retriever dataset beacuse they have both black and golden coat.** Finally I visualize the dog image, actual label and label predicted by the Neural networks.
 
-<img width="239" alt="Screen Shot 2023-08-17 at 12 44 30 PM" src="https://github.com/mayank8893/Dog_Breed_Classification_using_Deep_Learning/assets/69361645/6bc1aec4-3616-460e-9012-46bf141d3ce7">
-<img width="933" alt="Screen Shot 2023-08-17 at 12 44 59 PM" src="https://github.com/mayank8893/Dog_Breed_Classification_using_Deep_Learning/assets/69361645/ca07a803-7de4-4441-91c7-1ba6866159e6">
-<img width="496" alt="Screen Shot 2023-08-17 at 12 48 14 PM" src="https://github.com/mayank8893/Dog_Breed_Classification_using_Deep_Learning/assets/69361645/81070513-0dfe-47de-a10b-da4eae60bb7f">
+<img width="967" alt="Screen Shot 2023-08-22 at 2 05 14 PM" src="https://github.com/mayank8893/Deep_Learning_and_Computer_Vision/assets/69361645/d9de497e-4082-46c4-8f4f-01a809c6a5df">
+<img width="593" alt="Screen Shot 2023-08-22 at 2 05 00 PM" src="https://github.com/mayank8893/Deep_Learning_and_Computer_Vision/assets/69361645/ee808f83-d3fa-464a-8828-6b22fcae0461">
+<img width="585" alt="Screen Shot 2023-08-22 at 2 04 51 PM" src="https://github.com/mayank8893/Deep_Learning_and_Computer_Vision/assets/69361645/31dda081-7c09-4840-b277-e108a8974820">
+
