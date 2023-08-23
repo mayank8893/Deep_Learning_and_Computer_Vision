@@ -8,4 +8,5 @@ Text summarization is a **natural language processing (NLP)** task that involves
 
 **Abstractive summarization** methods generate new sentences that capture the essence of the source text while using their own wording. These methods rely on natural language generation techniques and can paraphrase and combine information to create a more concise and coherent summary.
 
-<img width="1029" alt="Screen Shot 2023-08-18 at 1 42 18 PM" src="https://github.com/mayank8893/Text_Summarization_NLP/assets/69361645/6aa2a8f5-1de1-494e-992e-871b0c004e4a">
+<img width="1029" alt="Screen Shot 2023-08-18 at 1 42 18 PM" src="https://github.com/mayank8893/Deep_Learning_and_Computer_Vision/assets/69361645/848ad17c-1c28-4c85-9a3a-8d64e1bf3529">
+
